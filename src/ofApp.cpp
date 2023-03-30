@@ -1,20 +1,7 @@
 #include "ofApp.h"
 #include "Emitter.h"
 //----------------------------------------------------------------------------------
-//
-// This example code demonstrates the use of an "Emitter" class to emit Sprites
-// and set them in motion. The concept of an "Emitter" is taken from particle
-// systems (which we will cover next week).
-//
-//  1) Creates a simple Emitter  that you can drag around (without images)
-//  2) Creates an Sprite to Collide with
-//
-//  requires ofxGUI add-in for sliders for changing parameters
-// 
-//
-//
-//  Kevin M. Smith - CS 134 SJSU
-
+// Cosmic Carrots
 //--------------------------------------------------------------
 void ofApp::setup() {
 	ofSetVerticalSync(true);
