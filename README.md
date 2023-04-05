@@ -16,7 +16,7 @@ Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
 | Object | Image | Health | Score Value |
 |----------------|-------------------|----------------------------|----------------|
-| Asteroid | <img src="[https://your-image-url.type](https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true)" width="100" height="100"> | width=100) | 1 | 5 |
+| Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="100" height="100"> | width=100) | 1 | 5 |
 | Green Teddy | ![alt text](https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOGreen.png?raw=true | width=100) | 1 | 15 |
 | Blue Teddy | ![alt text](https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOBlue.png?raw=true | width=100) | 1 | 15 |
 | Mothership Teddy | ![alt text](https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true | width=100) | 1 | 15 |
