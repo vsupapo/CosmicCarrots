@@ -15,7 +15,7 @@ Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 ## Gameplay
 
 | Object | Image | Health Points | Score Points | Description |
-|:--------------:| :----------: |:--------------------------:|:--------------:|:-------------------:|
+|:--------------:| :----------: |:--------------------------:|:--------------:|-------------------|
 | Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="50" height="50"> | 1 | 5 | Asteroids will damage a player if the player's spaceship directly collides with an asteroid. |
 | Green Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOGreen.png?raw=true" width="50" height="35"> | 1 | 15 | Enemy green teddies shoot missiles that can be detroyed by colliding with player missiles. |
 | Blue Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOBlue.png?raw=true" width="50" height="35"> | 1 | 15 | Enemy blue teddies shoot missiles that can be detroyed by colliding with player missiles. |
