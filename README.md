@@ -25,7 +25,7 @@ Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 ## Advanced Settings
 Press `G` to open the GUI window and access advanced player missile settings. Using the GUI sliders, change missile settings for:
 | Setting          | Value                                                          |
-|------------------|----------------------------------------------------------------|
+|:----------------:|----------------------------------------------------------------|
 | `Size`           | Pixel size of missles as a value from 0 to 100.                |
 | `Rate`           | Missile rate of fire as a value from 0 to 10.                  |
 | `X Velocity`     | Vertical velocity of missiles as a value from -100 to 100.     |
