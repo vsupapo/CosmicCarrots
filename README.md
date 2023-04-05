@@ -12,6 +12,9 @@ Press `SPACE` to start.
 Use `SPACE` to shoot carrot missiles.  
 Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
+## Gameplay
+![alt text](https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png)
+
 ## Advanced Settings
 Press `G` to open the GUI window and access advanced player missile settings. Using the GUI sliders, change missile settings for:
 | Setting          | Value                                                          |
