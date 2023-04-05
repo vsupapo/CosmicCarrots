@@ -1,4 +1,4 @@
-# 🚀 Cosmic Carrots :carrot: 
+# :rocket: Cosmic Carrots :carrot: 
 
 ## Description
 Cosmic Carrots is a 2D shooter game developed using the OpenFrameworks C++ toolkit. Avoid enemy missiles and passing asteroids to collect the missing carrots and defeat the space teddies!
