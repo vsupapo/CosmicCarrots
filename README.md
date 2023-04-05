@@ -18,9 +18,9 @@ Collect 5 missing carrots to win the game. Collide with a carrot to collect it.
 The bunny spaceship will start with 20 Health Points and can shoot unlimited missiles. As health goes down, the health bar color will change from green, to orange, and to red at the following health ranges:
 | Health Bar Color | Health Points |
 |:----------------:|:-------------:|
-| Green            | 13 to 20      |
-| Orange           | 7 to 12       |
-| Red              | 0 to 6        |
+| :green:          | 13 to 20      |
+| :orange:         | 7 to 12       |
+| :red:            | 0 to 6        |
 
 
 Avoid or destroy the following obstacles with the bunny spaceship missiles:
