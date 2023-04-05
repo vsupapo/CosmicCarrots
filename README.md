@@ -20,7 +20,7 @@ The bunny spaceship will start with 20 Health Points and can shoot unlimited mis
 |:----------------:|:-------------:|
 | :green_square:   | 13 to 20      |
 | :orange_square:  | 7 to 12       |
-| :red_square      | 0 to 6        |
+| :red_square:     | 0 to 6        |
 
 
 Avoid or destroy the following obstacles with the bunny spaceship missiles:
