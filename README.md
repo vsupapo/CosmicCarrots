@@ -19,7 +19,7 @@ Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 | Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="50" height="50"> | 1 | 5 | Asteroids will damage a player if the player's spaceship directly collides with an asteroid. |
 | Green Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOGreen.png?raw=true" width="50" height="35"> | 1 | 15 | Enemy green teddies shoot missiles that can be detroyed by colliding with player missiles. |
 | Blue Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOBlue.png?raw=true" width="50" height="35"> | 1 | 15 | Enemy blue teddies shoot missiles that can be detroyed by colliding with player missiles. |
-| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="75" height="52"> | 10 | 25 | The mothership teddy will appear with the final carrot once the player reaches a score of at least 200. The mothership teddy shoots missiles that can be detroyed by colliding with player missiles. |
+| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="100" height="52"> | 10 | 25 | The mothership teddy will appear with the final carrot once the player reaches a score of at least 200. The mothership teddy shoots missiles that can be detroyed by colliding with player missiles. |
 
 
 ## Advanced Settings
