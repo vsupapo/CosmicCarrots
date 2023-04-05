@@ -9,18 +9,18 @@ Cosmic Carrots is a 2D shooter game developed using the OpenFrameworks C++ toolk
 
 ## Controls
 Press `SPACE` to start.  
-Use `SPACE` to shoot carrot missiles.  
+Use `SPACE` to shoot missiles.  
 Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
 ## Gameplay
-Collect 5 missing carrots to win the game. The player's spaceship will start with 20 Health Points. At health goes down, the health bar color will change from green, to yellow, and to red when at low health. The player must avoid following obstacles:
+Collect 5 missing carrots to win the game. The player's bunny spaceship will start with 20 Health Points and can shoot unlimited missiles. As health goes down, the health bar color will change from green, to yellow, and to red when at low health. The player must avoid or destroy the following obstacles:
 
 | Object | Image | Health Points | Score Points | Description |
 |:--------------:| :----------: |:--------------------------:|:--------------:|-------------------|
 | Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="50" height="50"> | 1 | 5 | Asteroids will damage a player if the player's spaceship directly collides with an asteroid. |
 | Green Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOGreen.png?raw=true" width="52" height="35"> | 1 | 15 | Enemy green teddies shoot missiles that can be detroyed by colliding with player missiles. |
 | Blue Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOBlue.png?raw=true" width="52" height="35"> | 1 | 15 | Enemy blue teddies shoot missiles that can be detroyed by colliding with player missiles. |
-| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="125" height="52"> | 10 | 25 | The mothership teddy will appear with the final carrot once the player reaches a score of at least 200. The mothership teddy shoots missiles that can be detroyed by colliding with player missiles. |
+| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="125" height="52"> | 10 | 25 | The mothership teddy will appear guarding the final carrot once the player reaches a score of at least 200. The mothership teddy shoots missiles that can be detroyed by colliding with player missiles. |
 
 
 ## Advanced Settings
