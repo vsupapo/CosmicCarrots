@@ -13,6 +13,7 @@ Use `SPACE` to shoot carrot missiles.
 Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
 ## Gameplay
+Collect 5 missing carrots to win the game. The player's spaceship will start with 20 Health Points. At health goes down, the health bar color will change from green, to yellow, and to red when at low health. The player must avoid following obstacles:
 
 | Object | Image | Health Points | Score Points | Description |
 |:--------------:| :----------: |:--------------------------:|:--------------:|-------------------|
