@@ -13,8 +13,17 @@ Use `SPACE` to shoot missiles.
 Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
 ## Gameplay
-Collect 5 missing carrots to win the game. The player's bunny spaceship will start with 20 Health Points and can shoot unlimited missiles. As health goes down, the health bar color will change from green, to yellow, and to red when at low health. The player must avoid or destroy the following obstacles:
+Collect 5 missing carrots to win the game. Collide with a carrot to collect it.  
 
+The bunny spaceship will start with 20 Health Points and can shoot unlimited missiles. As health goes down, the health bar color will change from green, to orange, and to red at the following health ranges:
+| Health Bar Color | Health Points |
+|:----------------:|:-------------:|
+| Green            | 13 to 20      |
+| Orange           | 7 to 12       |
+| Red              | 0 to 6        |
+
+
+Avoid or destroy the following obstacles with the bunny spaceship missiles:
 | Object | Image | Health Points | Score Points | Description |
 |:--------------:| :----------: |:--------------------------:|:--------------:|-------------------|
 | Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="50" height="50"> | 1 | 5 | Asteroids will damage a player if the player's spaceship directly collides with an asteroid. |
