@@ -13,4 +13,4 @@ Use `SPACE` to shoot carrot missiles.
 Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 
 ## Advanced Settings
-Press `G` to open the GUI window for access to advanced player settings. From here, you can modify carrot missile speed, fire rate, and velocity using the GUI sliders.
+Press `G` to open the GUI window and access advanced player settings. Here, you can modify carrot missile speed, fire rate, and velocity using the GUI sliders.
