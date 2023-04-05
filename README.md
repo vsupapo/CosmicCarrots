@@ -15,11 +15,11 @@ Use the directional keys `UP` `DOWN` `LEFT` `RIGHT` to move.
 ## Gameplay
 
 | Object | Image | Health | Score Value |
-|----------------| :----------: |----------------------------|----------------|
+|:--------------:| :----------: |:--------------------------:|:--------------:|
 | Asteroid | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/asteroid.png?raw=true" width="100" height="100"> | 1 | 5 |
 | Green Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOGreen.png?raw=true" width="100" height="70"> | 1 | 15 |
 | Blue Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/enemyUFOBlue.png?raw=true" width="100" height="70"> | 1 | 15 |
-| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="150" height="105"> | 1 | 25 |
+| Mothership Teddy | <img src="https://github.com/vsupapo/CosmicCarrots/blob/master/data/images/mothership.png?raw=true" width="150" height="105"> | 10 | 25 |
 
 
 ## Advanced Settings
